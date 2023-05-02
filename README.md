@@ -1,7 +1,7 @@
 # SWEG_Datamining
 Project description: Analyze Customer data for a Medical Sales Business
 
-Installation instructions: import the following packages 
+Installation instructions: import the following packages:
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -16,5 +16,3 @@ from sklearn.metrics import accuracy_score
 Usage instructions: run and load the data the rest will follow. data = pd.read_csv('SalesOfMedicalDevices.csv') 
 
 File descriptions: One CSV file containing data, cleaned adn ready to go
-
-Acknowledgments: A list of any people, resources, or tools that were used to create the project.
